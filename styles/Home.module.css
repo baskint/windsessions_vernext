@@ -113,6 +113,11 @@
   margin-left: 0.5rem;
 }
 
+.niagara {
+  width: 480px;
+  height: 100%;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

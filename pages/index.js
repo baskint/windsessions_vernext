@@ -20,6 +20,7 @@ export default function Home() {
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
+        <img className={styles.niagara} src="images/niagara01.jpg" alt="Niagara Falls"/>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
